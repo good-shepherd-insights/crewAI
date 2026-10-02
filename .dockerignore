@@ -1,0 +1,16 @@
+.git
+.github
+.venv
+**/__pycache__
+**/*.pyc
+.env
+.env.*
+node_modules
+docs
+**/tests
+scripts
+conftest.py
+*.md
+!README.md
+Dockerfile
+.dockerignore
